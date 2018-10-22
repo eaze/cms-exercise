@@ -16,7 +16,7 @@ This exercise is divided into two parts:
         - Select one of the GIFs in the list to add it to the article.
     - The GIFs should be fetched using the Giphy API.
     - The writer should be able to select the GIF through the WordPress editor.
-4. Build an interface to view the articles with their associated GIFs.
+4. Build an interface for the end user to view the articles with their associated GIFs.
 5. Upload your project to a Git repository. We prefer Github but Bitbucket works as well. Please don't fork this repo.
 
 ## Evaluation
